@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Kenza 
 
-<!--
-**KenzaGitLab/KenzaGitLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate  
+💻 Passionate about building modern web applications  
+🌱 Currently improving my **Frontend** skills and learning **Backend Development**  
+🎯 Future goal: specialize in **Data Engineering & Business Intelligence**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+**Frontend**  
+- React, HTML5, CSS3, JavaScript, TailwindCSS  
+
+**Backend**  
+- Node.js, Express.js  
+- SQL, MongoDB  
+
+**Tools**  
+- Git & GitHub, VS Code, Postman 
+
+---
+
+✨ “Learning every day, one step closer to mastering fullstack development.”
