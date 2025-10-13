@@ -1,24 +1,14 @@
-# 👋 Hi, I'm Kenza 
+👋 Hi, I'm Kenza
 
-🎓 Computer Science graduate  
-💻 Passionate about building modern web applications  
-🌱 Currently improving my **Frontend** skills and learning **Backend Development**  
-🎯 Future goal: specialize in **Data Engineering & Business Intelligence**  
+🎓 Master’s student in Big Data (M1) at USTHB, with a Bachelor’s degree in Computer Science.
+💻 Passionate about building modern web applications and exploring data-driven technologies.
+🌱 Currently improving my Frontend skills and learning Backend Development.
+🎯 Future goal: specialize in Data Engineering & Business Intelligence.
 
----
+🚀 Tech Stack
+Frontend: React, HTML5, CSS3, JavaScript, TailwindCSS
+Backend: Node.js, Express.js
+Databases: SQL, MongoDB
+Tools: Git & GitHub, VS Code, Postman
 
-## 🚀 Tech Stack
-
-**Frontend**  
-- React, HTML5, CSS3, JavaScript, TailwindCSS  
-
-**Backend**  
-- Node.js, Express.js  
-- SQL, MongoDB  
-
-**Tools**  
-- Git & GitHub, VS Code, Postman 
-
----
-
-✨ “Learning every day, one step closer to mastering fullstack development.”
+✨ “Learning every day, one step closer to mastering fullstack and data engineering.”
