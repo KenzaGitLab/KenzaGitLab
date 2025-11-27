@@ -7,8 +7,8 @@
 
 🚀 Tech Stack
 Frontend: React, HTML5, CSS3, JavaScript, TailwindCSS
-Backend: Node.js, Express.js
 Databases: SQL, MongoDB
-Tools: Git & GitHub, VS Code, Postman
+Tools: Git & GitHub, VS Code
+langages: python, c++
 
 ✨ “Learning every day, one step closer to mastering fullstack and data engineering.”
