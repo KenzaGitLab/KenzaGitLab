@@ -11,4 +11,4 @@ Databases: SQL, MongoDB
 Tools: Git & GitHub, VS Code
 langages: python, c++
 
-✨ “Learning every day, one step closer to mastering fullstack and data engineering.”
+
